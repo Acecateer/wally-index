@@ -1,0 +1,4 @@
+{
+	"api": "https://wally-registry.acecateer.workers.dev",
+	"fallback_registries": ["https://github.com/UpliftGames/wally-index"]
+}
